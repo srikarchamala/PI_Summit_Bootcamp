@@ -11,7 +11,7 @@ To address this concern, the **laboratory leadership** assigned one of their fel
 
 ### Data Context
 
-You are provided with **potassium values and related patient data from May 2022** — the period when clinicians from **Clinic 3** reported a spike in critical values.
+You are provided with **potassium values and related  data from May 2022 for all four clinics** — the period when clinicians from **Clinic 3** reported a spike in critical values.
 
 ## Part I – Interactive BI Tool Demonstration with Tableau (Hands-On Session)
 
