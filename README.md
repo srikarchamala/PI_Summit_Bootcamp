@@ -9,7 +9,9 @@ To address this concern, the **laboratory leadership** assigned one of their fel
 1. **Validate the observation** from Clinic3 and confirm whether there is indeed a rise in critical potassium values.
 2. **Investigate potential causes** behind any confirmed increases in critical value incidents.
 
-This exercise leverages real-world data analysis methods to validate clinical concerns and identify operational or clinical contributing factors.
+### Data Context
+
+You are provided with **potassium values and related patient data from May 2022** — the period when clinicians from **Clinic 3** reported a spike in critical values.
 
 ## Part I – Interactive BI Tool Demonstration with Tableau (Hands-On Session)
 
