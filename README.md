@@ -1,5 +1,16 @@
 # PI_Summit_2025
 
+## Case Study: Investigating Increased Critical Potassium Alerts at Clinic3
+
+The pathology laboratory at a hospital—servicing four offsite ambulatory clinics (Clinic1, Clinic2, Clinic3, and Clinic4)—received a notification from a **Clinic3 clinician** reporting a **notable rise in critical potassium values** over recent weeks.
+
+To address this concern, the **laboratory leadership** assigned one of their fellows to collaborate with the **Data Analytics Team** to:
+
+1. **Validate the observation** from Clinic3 and confirm whether there is indeed a rise in critical potassium values.
+2. **Investigate potential causes** behind any confirmed increases in critical value incidents.
+
+This exercise leverages real-world data analysis methods to validate clinical concerns and identify operational or clinical contributing factors.
+
 ## Part I – Interactive BI Tool Demonstration with Tableau (Hands-On Session)
 
 ### 1.1. Access the Data File
@@ -10,6 +21,12 @@ Click the link below to open the data source file on GitHub:
 On the GitHub page, click the **Download** icon as shown in the screenshot below to save the file to your local computer.
 
 <img width="183" alt="image" src="https://github.com/user-attachments/assets/c49b407c-a7d9-46cc-8454-39492034819c" />
+
+### 1.3. Scenario that we are addressingData File Description
+It contains Potassioum Values for the whole month of May 2022 for the four clinics
+
+### 1.3. Data File Description
+It contains Potassioum Values for the whole month of May 2022 for the four clinics
 
 ## 2. Instructions to Log In to Tableau
 
