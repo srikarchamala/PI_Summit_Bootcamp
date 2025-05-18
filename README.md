@@ -34,6 +34,13 @@ If your number is `102`, then:
 
 <img width="384" alt="image" src="https://github.com/user-attachments/assets/469294b4-6ef6-4457-9f21-deacd28086d9" />
 
+## 🧪 Part II – Programming for Analytics Using Python (Only a Short Demonstration)
+
+In this portion of the bootcamp, the instructor will **demonstrate Python-based analytics**. Trainees are encouraged to **observe** rather than follow along live.
+
+If you’d like to explore the code later or follow along independently, you can access the Python Notebook on Google Colab using the link below:
+
+🔗 [Open Python Notebook in Google Colab](https://colab.research.google.com/drive/1dC7J1TcMPp3sXnZiWFtd6ahKElKY-PmH?usp=sharing)
 
 
 
