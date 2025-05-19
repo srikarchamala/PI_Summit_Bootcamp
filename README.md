@@ -42,14 +42,14 @@ Click the following link to open the Tableau login page:
 You will be taken to a login screen . Use the credentials provided below:
 
 - **Username**: `clininfobootcamp+NUMBER@gmail.com`  
-- **Password**: `clininfobootcamp2025+NUMBER`
+- **Password**: `Clininfobootcamp+NUMBER` (Note: Capital C).
 
 > Replace `NUMBER` with the number you picked from the draw jar/box during registration.
 
 Example:  
 If your number is `102`, then:  
 - Username: `clininfobootcamp+102@gmail.com`  
-- Password: `clininfobootcamp2025+102`
+- Password: `Clininfobootcamp+102`
 
 <img width="384" alt="image" src="https://github.com/user-attachments/assets/469294b4-6ef6-4457-9f21-deacd28086d9" />
 
