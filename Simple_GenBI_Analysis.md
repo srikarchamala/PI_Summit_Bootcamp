@@ -18,7 +18,16 @@ Equip clinical professionals with hands-on experience using **Generative BI tool
 
 #### ✅ Tasks & Prompts
 
-##### 🧾 Task 1: Explore Dataset
+##### �e� Task 1: Upload the Data File
+
+```plaintext
+Step: Drag and drop the Excel file (`PI_Bootcamp_LabTest_Data_V04.xlsx`) into the ChatGPT interface.
+Prompt: "Can you load this file and show me a summary of potassium results by clinic?"
+```
+
+Outcome: ChatGPT parses and previews data structure (clinic names, result flags, draw dates, etc.)
+
+##### �e� Task 2: Explore Dataset
 
 ```plaintext
 Prompt: "Show me the total number of potassium tests performed at each clinic in May 2022."
@@ -26,7 +35,7 @@ Prompt: "Show me the total number of potassium tests performed at each clinic in
 
 Outcome: Simple pivot summary grouped by `Clinic_Name`
 
-##### 🧾 Task 2: Identify Critical Incidents
+##### �e� Task 3: Identify Critical Incidents
 
 ```plaintext
 Prompt: "Which clinic had the most critical potassium results?"
@@ -34,7 +43,7 @@ Prompt: "Which clinic had the most critical potassium results?"
 
 Outcome: ChatGPT returns a table or chart showing CRIT values per clinic
 
-##### 🧾 Task 3: Investigate Root Cause
+##### �e� Task 4: Investigate Root Cause
 
 ```plaintext
 Prompt: "Who drew the most critical potassium samples in Clinic_3?"
@@ -42,7 +51,7 @@ Prompt: "Who drew the most critical potassium samples in Clinic_3?"
 
 Outcome: Reveal that one phlebotomist drew 22 out of 23 criticals
 
-##### 🧾 Task 4: Visualize Pattern
+##### �e� Task 5: Visualize Pattern
 
 ```plaintext
 Prompt: "Plot the number of critical potassium results in Clinic_3 by date."
@@ -50,11 +59,10 @@ Prompt: "Plot the number of critical potassium results in Clinic_3 by date."
 
 Outcome: Date-wise bar chart showing spikes on May 16 & May 22
 
-##### 🧾 Task 5: Generate Summary for Leadership
+##### �e� Task 6: Generate Summary for Leadership
 
 ```plaintext
 Prompt: "Write a 3-bullet executive summary explaining the critical potassium spike in Clinic_3."
-```
 
 Outcome:
 
